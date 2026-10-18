@@ -1,10 +1,10 @@
 {
-  "KEYS": {
-    "dev": {
-      "hwid": ""
-    },
-    "test": {
-      "hwid": ""
+    "KEYS": {
+        "dev": {
+            "hwid": "FB0CDDF3-300E-F149-B60E-3909A4BC0A7B"
+        },
+        "test": {
+            "hwid": ""
+        }
     }
-  }
 }
