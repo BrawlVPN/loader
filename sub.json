@@ -2,7 +2,7 @@
   "KEYS": {
     "test": {
       "hwid": "",
-      "expires": "forever"
+      "expires": "2027-01-01 00:00"
     },
     "TIMED-KEY-2027": {
       "hwid": "",
