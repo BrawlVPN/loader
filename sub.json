@@ -1,16 +1,12 @@
 {
-    "KEYS": {
-        "dev": {
-            "hwid": "FB0CDDF3-300E-F149-B60E-3909A4BC0A7B",
-            "expires": "2026-10-19 15:42:00"
-        },
-        "TEST-KEY-99999": {
-            "hwid": "ABC123XYZ-HWID-\u041f\u041a",
-            "expires": "2025-05-15 12:30:00"
-        },
-        "UNLIMITED-KEY": {
-            "hwid": "",
-            "expires": "2099-12-31 23:59:59"
-        }
+  "KEYS": {
+    "test": {
+      "hwid": "",
+      "expires": "forever"
+    },
+    "TIMED-KEY-2027": {
+      "hwid": "",
+      "expires": "2027-12-31 23:59"
     }
+  }
 }
